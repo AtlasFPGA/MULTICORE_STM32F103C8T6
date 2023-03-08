@@ -1,0 +1,2 @@
+La versión que vino después de la roja, se canceló por lo poco sensible del ruteado del bus DVI/hdmi y el hecho de que lo más objetivo es parchear las pistas entre
+ps2 del teclado "intercambiar PS2_CLK POR PS2_DATA" e intercambiarlas para poder ejecutar la mayoría de cores hasta la fecha del modelo AT1.
